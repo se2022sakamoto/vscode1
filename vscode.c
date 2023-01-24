@@ -1,7 +1,7 @@
 #include <stdio.h>
-int i;
+int i=0;
 int main(void){ 
-while(i<5){ 
-printf("hello %d\n",i) ;
+while(i<3){ 
+printf("hello world\n") ;
 i++;}
 }
